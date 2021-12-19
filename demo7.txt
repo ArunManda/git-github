@@ -1,2 +1,3 @@
 welcome to github 
 working with git
+push code from git to command line interface
